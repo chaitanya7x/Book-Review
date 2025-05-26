@@ -37,6 +37,20 @@ A RESTful API built with Node.js, Express, and MongoDB for a basic Book Review s
 }
 ```
 
+## Screenshots
+
+### Home Page - Discover Books
+![Home Page](./screenshots/Screenshot%20(372).png)
+
+### Login Page
+![Login Page](./screenshots/Screenshot%20(371).png)
+
+### Sign Up Page
+![Sign Up Page](./screenshots/Screenshot%20(369).png)
+
+### Book Details & Review Submission
+![Book Detail Page](./screenshots/Screenshot%20(368).png)
+
 ## Setup Instructions
 
 1. Clone the repository:
@@ -49,15 +63,8 @@ A RESTful API built with Node.js, Express, and MongoDB for a basic Book Review s
    ```
    npm install
    ```
-
-3. Create a `.env` file in the root directory with the following variables:
-   ```
-   MONGODB_URI=mongodb://localhost:27017/bookreview
-   JWT_SECRET=your_jwt_secret_key
-   PORT=3000
-   ```
-
-4. Start the server:
+   
+3. Start the server:
    ```
    npm start
    ```
@@ -120,3 +127,4 @@ A RESTful API built with Node.js, Express, and MongoDB for a basic Book Review s
 - Used JWT for authentication to ensure secure and stateless user sessions.
 - Implemented pagination and filtering for book listings to handle large datasets efficiently.
 - Used Mongoose for MongoDB interactions to leverage schema validation and middleware. 
+
