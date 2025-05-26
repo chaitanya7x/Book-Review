@@ -40,7 +40,7 @@ A RESTful API built with Node.js, Express, and MongoDB for a basic Book Review s
 ## Screenshots
 
 ### Home Page - Discover Books
-![Home Page](./screenshots/Screenshot%20(372).png)
+![Home Page](Screenshot%20(372).png)
 
 ### Login Page
 ![Login Page](./screenshots/Screenshot%20(371).png)
