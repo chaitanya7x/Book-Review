@@ -43,13 +43,13 @@ A RESTful API built with Node.js, Express, and MongoDB for a basic Book Review s
 ![Home Page](Screenshot%20(372).png)
 
 ### Login Page
-![Login Page](./screenshots/Screenshot%20(371).png)
+![Login Page](Screenshot%20(371).png)
 
 ### Sign Up Page
-![Sign Up Page](./screenshots/Screenshot%20(369).png)
+![Sign Up Page](Screenshot%20(369).png)
 
 ### Book Details & Review Submission
-![Book Detail Page](./screenshots/Screenshot%20(368).png)
+![Book Detail Page](Screenshot%20(368).png)
 
 ## Setup Instructions
 
